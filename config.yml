@@ -23,5 +23,5 @@ SauceNAO:
   key: ""
 
 Setu:
-  reverse_proxy: true # 请参考文档
+  reverse_proxy: false # 请参考文档
   reverse_proxy_domain: "i.pixiv.re"
